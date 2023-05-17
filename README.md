@@ -23,7 +23,7 @@ It is maintained by Django softwares
 ----
 # command for Django (which are written in command prompt)
 
---> How to creatre a folder or project <--
+--> How to creatre a folder or project <-- <br>
 == django-admin startproject newproject (here newproject is our folder or project name , so we can write any name)
 then enter inside that project to create an application
 == cd newproject
@@ -34,13 +34,7 @@ then enter inside that project to create an application
 --> How to run the server <--
 == python manage.py runserver 
 
-'''diff
-@@this are the basic commands which we must have to do when creating a project and runserver is to check that the created project is running or not@@
-'''
-
-
 ```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
+@@this are the basic commands which we must have to do when creating a project and runserver is to check that the created project is running or not@@
 ```
+
