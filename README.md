@@ -38,3 +38,9 @@ then enter inside that project to create an application
 @@this are the basic commands which we must have to do when creating a project and runserver is to check that the created project is running or not@@
 '''
 
+
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
