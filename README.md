@@ -35,6 +35,6 @@ then enter inside that project to create an application
 == python manage.py runserver 
 
 '''diff
-@this are the basic commands which we must have to do when creating a project and runserver is to check that the created project is running or not@
+@@this are the basic commands which we must have to do when creating a project and runserver is to check that the created project is running or not@@
 '''
 
