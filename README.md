@@ -37,13 +37,15 @@ cd newproject
 ```bash
 python manage.py startapp admins
 ```
-#here admins is our application name , so we can name it anything but admins is a very good name <br><br>
+#here admins is our application name , so we can name it anything but admins is a very good name <br>
 
---> How to run the server <--
-== python manage.py runserver 
+--> How to run the server <-- <br>
+```bash
+python manage.py runserver 
+```
 
 ```diff
-@@this are the basic commands which we must have to do when creating a
-project and runserver is to check that the created project is running or not@@
+@@this are the basic commands which we must have to do when creating aproject@@
+@@runserver is to check that the created project is running or not@@
 ```
 
