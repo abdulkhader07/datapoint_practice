@@ -27,12 +27,17 @@ It is maintained by Django softwares
 ```bash
 django-admin startproject newproject
 ```
-#here newproject is our folder or project name , so we can write any name
+#here newproject is our folder or project name , so we can write any name <br><br>
 then enter inside that project to create an application
-== cd newproject
+```bash
+cd newproject
+```
 
---> How to create a application <--
-== python manage.py startapp admins ( here admins is our application name , so we can name it anything but admins is a very good name)
+--> How to create a application <-- <br>
+```bash
+python manage.py startapp admins
+```
+#here admins is our application name , so we can name it anything but admins is a very good name <br><br>
 
 --> How to run the server <--
 == python manage.py runserver 
