@@ -1,17 +1,18 @@
 # datapoint_practice
-using django as framework , to build full stack projects.
+Using django as framework , to build full stack projects.
 
 ----
 # MVT
-django uses mvt method for doing all the tasks.
-M- model - database,
-v- view - business logic,
-T- Template - frontend - html css,
+Django uses mvt method for doing all the tasks. <br>
+M- model - database, <br>
+v- view - business logic, <br> 
+T- Template - frontend - html css, <br>
 
 # Django is a framework
-Django is a open source web framework. It is written in python
-It follows the model-view-template architecture pattern
-It is maintained by Django softwares
+Django is a open source web framework. 
+1. It is written in python
+2. It follows the model-view-template architecture pattern.
+3. It is maintained by Django softwares
 
 ----
 # features of Django
