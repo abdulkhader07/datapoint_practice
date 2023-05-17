@@ -23,23 +23,23 @@ It is maintained by Django softwares
 ----
 # Command for Django (which are written in command prompt)
 
---> How to creatre a folder or project <-- <br>
+## --> How to creatre a folder or project <-- <br>
 ```bash
 django-admin startproject newproject
 ```
 #here newproject is our folder or project name , so we can write any name <br><br>
---> then enter inside that project to create an application <--
+## --> then enter inside that project to create an application <--
 ```bash
 cd newproject
 ```
 
---> How to create a application <-- <br>
+## --> How to create a application <-- <br>
 ```bash
 python manage.py startapp admins
 ```
 #here admins is our application name , so we can name it anything but admins is a very good name <br>
 
---> How to run the server <-- <br>
+## --> How to run the server <-- <br>
 ```bash
 python manage.py runserver 
 ```
