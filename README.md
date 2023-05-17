@@ -21,14 +21,14 @@ It is maintained by Django softwares
 4. Scalability
 
 ----
-# command for Django (which are written in command prompt)
+# Command for Django (which are written in command prompt)
 
 --> How to creatre a folder or project <-- <br>
 ```bash
 django-admin startproject newproject
 ```
 #here newproject is our folder or project name , so we can write any name <br><br>
-then enter inside that project to create an application
+--> then enter inside that project to create an application <--
 ```bash
 cd newproject
 ```
@@ -45,7 +45,7 @@ python manage.py runserver
 ```
 
 ```diff
-@@this are the basic commands which we must have to do when creating aproject@@
+@@above commands are the basic commands which we must have to do when creating aproject@@
 @@runserver is to check that the created project is running or not@@
 ```
 
