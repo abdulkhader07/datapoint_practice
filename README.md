@@ -49,4 +49,4 @@ python manage.py runserver
 @@above commands are the basic commands which we must have to do when creating aproject@@
 @@runserver is to check that the created project is running or not@@
 ```
-
+-------
